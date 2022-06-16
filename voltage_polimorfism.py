@@ -1,4 +1,4 @@
-#This is an example for poliforfism using the ohm´s law.
+#This is an example for polimorfism using the ohm´s law.
 
 class Voltage:
 
