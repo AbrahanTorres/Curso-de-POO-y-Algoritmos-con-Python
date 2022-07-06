@@ -43,7 +43,7 @@ El contenido de este documento esta basado en el curso del mismo nombre dictado 
 
 # Programación Orientada a Objetos
 
-## Objetivos
+## Objetivos.
 
 Con este documento tenemos como **objetivos:**
 
